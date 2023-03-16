@@ -955,6 +955,7 @@ footer .socialmedia_link:focus {
     margin-top: 4px;
     outline: none;
     margin-bottom: 16px;
+    display: block;
     transition: border-color var(--accent-color-transition-duration-and-transition-timing-function);
 }
 
@@ -1024,9 +1025,7 @@ footer .socialmedia_link:focus {
     clip: rect(0 0 0 0);
 }
 
-.modal-form-check:focus +.modal-form-check-desc>.modal-form-fake-checkbox>.modal-form-fake-icon {
-    border: 2px solid var(--button-color);
-}
+
 .modal-form-submit {
     font-family: 'Roboto';
     font-style: normal;
