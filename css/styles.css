@@ -1027,7 +1027,6 @@ footer .socialmedia_link:focus {
 .modal-form-check:focus +.modal-form-check-desc>.modal-form-fake-checkbox>.modal-form-fake-icon {
     border: 2px solid var(--button-color);
 }
-
 .modal-form-submit {
     font-family: 'Roboto';
     font-style: normal;
